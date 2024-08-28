@@ -1,3 +1,4 @@
+![logo](https://github.com/samiksha-sherekar/samiksha-sherekar/blob/main/bannerImg.png)
 <h1 align="center">Hi 👋, I'm Samiksha Sherekar</h1>
 <h3 align="center">Front End Developer</h3>
 <img align="right" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2i8Djg8UdXPIhknDZBBWc22Tr6I1XzbQVVrLs3Phw-TCsTSQZ-MEyYwa3M5mbVVARLE&usqp=CAU" alt="">
